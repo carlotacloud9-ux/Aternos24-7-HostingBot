@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NewUnstable.aternos.me",
-    "port": 17803,
+    "ip": "Goffycraft.aternos.me:40793",
+    "port": 40793,
     "version": "",
     "try-creative": false
   },
